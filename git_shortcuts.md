@@ -31,12 +31,15 @@ This is a file created to help navigate git.
     
 
 8) Check if files are correct
+    
      ``` git status ```
 
 9) Check your files status again
+    
      ``` git status ```
 
 10) Next check the branch you want to commit to
+    
      ``` git checkout ```
 
 11) Next of its all correct, then commit
